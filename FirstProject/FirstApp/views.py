@@ -9,7 +9,7 @@ def display(request): #view-function
 				<h2 style="color:Blue;">
 					Hello User, Welcome to Django First-Project First-App
 				</h2>
-                <h1>hello python</h1>
+                <h1>hello bharath in git-view</h1>
 				<hr />
 			</center>
 		''';
